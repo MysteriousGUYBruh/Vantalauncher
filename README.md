@@ -17,6 +17,8 @@
 
 ## About
 
+# [Telegram](https://t.me/+Wve3vF397C02NzY1)
+
 Vanta Launcher is developed by **@mysteriousGUYbruh** and **@nanowx26** as an independent Android launcher framework and compatibility project.
 
 This project is not affiliated with, endorsed by, sponsored by, reviewed by, or approved by Microsoft, Mojang, Xbox, Minecraft, PojavLauncher, Boardwalk, Amethyst, MojoLauncher, Zalith Launcher, Fold Craft Launcher, or any other third-party launcher project.
