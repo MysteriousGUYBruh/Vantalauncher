@@ -15,8 +15,7 @@
 
 ---
 
-## About
-
+## Make sure to join telegram which is @nanowx26 very helpful and annoucement :)
 # [Telegram](https://t.me/+Wve3vF397C02NzY1)
 
 Vanta Launcher is developed by **@mysteriousGUYbruh** and **@nanowx26** as an independent Android launcher framework and compatibility project.
