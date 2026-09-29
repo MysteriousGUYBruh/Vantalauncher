@@ -5,7 +5,7 @@
 <h1 align="center">Vanta Launcher</h1>
 
 <p align="center">
-  An independent Android launcher framework for users who does NOT own Minecraft or own Minecraft: Java Edition and want to run Java Edition on Android devices. 
+  An independent Android launcher framework for users who does NOT own Minecraft: Java Edition and want to run Java Edition on Android devices. 
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 ## Make sure to join telegram which is @nanowx26 will be grateful and annoucement for upcoming new update for vanta launcher :)
 # [Telegram](https://t.me/+Wve3vF397C02NzY1)
 
-Vanta Launcher is developed by **@mysteriousGUYbruh** and **@nanowx26** as an independent Android launcher framework and compatibility project.
+Vanta Launcher is developed by **@mysteriousGUYbruh** and **@nanowx26** as an independent Android launcher framework and compatibility project. Basically twin of droidbridge launcher but evil one lol.
 
 This project is not affiliated with, endorsed by, sponsored by, reviewed by, or approved by Microsoft, Mojang, Xbox, Minecraft, PojavLauncher, Boardwalk, Amethyst, MojoLauncher, Zalith Launcher, Fold Craft Launcher, or any other third-party launcher project.
 
