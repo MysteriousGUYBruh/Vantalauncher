@@ -4,8 +4,9 @@
 
 <h1 align="center">Vanta Launcher</h1>
 
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=flat&logo=tiktok&logoColor=white)](https://www.tiktok.com/@code.i.guess?lang=id-ID)
-[![Telegram](https://img.shields.io/badge/Telegram-220%20members-24A1DE?style=flat&logo=telegram&logoColor=white)](https://t.me/+Wve3vF397C02NzY1)
+[![TikTok](https://img.shields.io/badge/TikTok-@z.hanzz45-000000?style=flat&logo=tiktok&logoColor=white)](https://www.tiktok.com/@z.hanzz45)
+[![Telegram](https://img.shields.io/badge/Telegram-237%20members-24A1DE?style=flat&logo=telegram&logoColor=white)](https://t.me/+Wve3vF397C02NzY1)
+[![TikTok](https://img.shields.io/badge/TikTok-@code.i.guess-000000?style=flat&logo=tiktok&logoColor=white)](https://www.tiktok.com/@code.i.guess?lang=id-ID)
 
 ## Make sure to join telegram for upcoming new update vanta launcher :D
 
