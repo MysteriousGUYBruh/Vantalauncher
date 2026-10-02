@@ -4,6 +4,11 @@
 
 <h1 align="center">Vanta Launcher</h1>
 
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=flat&logo=tiktok&logoColor=white)](https://www.tiktok.com/@code.i.guess?lang=id-ID)
+[![Telegram](https://img.shields.io/badge/Telegram-220%20members-24A1DE?style=flat&logo=telegram&logoColor=white)](https://t.me/+Wve3vF397C02NzY1)
+
+## Make sure to join telegram for upcoming new update vanta launcher :D
+
 <p align="center">
   An independent Android launcher framework for users who does NOT own Minecraft: Java Edition and want to run Java Edition on Android devices. 
 </p>
@@ -14,10 +19,6 @@
 </p>
 
 ---
-
-# [Telegram](https://t.me/+Wve3vF397C02NzY1)
-
-# Make sure to join telegram which is @nanowx26 will happy and annoucement for upcoming new update for vanta launcher :)
 
 Vanta Launcher is developed by **@mysteriousGUYbruh** and **@nanowx26** as an independent Android launcher framework and compatibility project. Basically twin of droidbridge launcher but evil one lol.
 
