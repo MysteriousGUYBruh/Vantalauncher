@@ -15,8 +15,9 @@
 
 ---
 
-## Make sure to join telegram which is @nanowx26 will be grateful and annoucement for upcoming new update for vanta launcher :)
 # [Telegram](https://t.me/+Wve3vF397C02NzY1)
+
+# Make sure to join telegram which is @nanowx26 will happy and annoucement for upcoming new update for vanta launcher :)
 
 Vanta Launcher is developed by **@mysteriousGUYbruh** and **@nanowx26** as an independent Android launcher framework and compatibility project. Basically twin of droidbridge launcher but evil one lol.
 
