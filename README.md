@@ -5,7 +5,7 @@
 <h1 align="center">Vanta Launcher</h1>
 
 [![TikTok](https://img.shields.io/badge/TikTok-@z.hanzz45-000000?style=flat&logo=tiktok&logoColor=white)](https://www.tiktok.com/@z.hanzz45)
-[![Telegram](https://img.shields.io/badge/Telegram-237%20members-24A1DE?style=flat&logo=telegram&logoColor=white)](https://t.me/+Wve3vF397C02NzY1)
+[![Telegram](https://img.shields.io/badge/Telegram-248%20members-24A1DE?style=flat&logo=telegram&logoColor=white)](https://t.me/+Wve3vF397C02NzY1)
 [![TikTok](https://img.shields.io/badge/TikTok-@code.i.guess-000000?style=flat&logo=tiktok&logoColor=white)](https://www.tiktok.com/@code.i.guess?lang=id-ID)
 [![YouTube](https://img.shields.io/badge/YouTube-@mintz__45-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@mintz_45)
 
