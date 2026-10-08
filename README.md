@@ -15,6 +15,9 @@
   An independent Android launcher framework for users who does NOT own Minecraft: Java Edition and want to run Java Edition on Android devices. 
 </p>
 
+[![Note Today (8 October 2026)]
+> Hello guys, I am sad to announce that there won't be any updates in the future anymore, the issue is the files that holds the accounts seems to be missing and reconstructured by the developer. If I found any patches in the future then I'll update you all. 🙏🙏
+
 <p align="center">
   <strong>NOT AN OFFICIAL MINECRAFT PRODUCT.</strong><br>
   <strong>NOT APPROVED BY OR ASSOCIATED WITH MOJANG, MICROSOFT, XBOX, OR THE POJAVLAUNCHER PROJECT.</strong>
